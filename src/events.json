@@ -1,0 +1,217 @@
+[
+  {
+    "id": 0,
+    "backgroundColor": "orange",
+    "display": "background",
+    "end": "2020-09-30T07:30:00.000Z",
+    "start": "2020-09-30T07:00:00.000Z",
+    "title": "Kisállatútlevél igénylése"
+  },
+  {
+    "id": 1,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-29T07:30:00.000Z",
+    "end": "2020-09-29T08:00:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 2,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-29T07:00:00.000Z",
+    "end": "2020-09-29T07:30:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 3,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-29T08:00:00.000Z",
+    "end": "2020-09-29T08:30:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 4,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-30T08:30:00.000Z",
+    "end": "2020-09-30T09:20:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 5,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-29T09:00:00.000Z",
+    "end": "2020-09-29T09:30:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 6,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-29T08:30:00.000Z",
+    "end": "2020-09-29T09:00:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 7,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-29T10:30:00.000Z",
+    "end": "2020-09-29T11:20:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 8,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-30T11:00:00.000Z",
+    "end": "2020-09-30T11:50:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 9,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-29T11:30:00.000Z",
+    "end": "2020-09-29T12:20:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 10,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-28T07:00:00.000Z",
+    "end": "2020-09-28T07:50:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 11,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-28T08:00:00.000Z",
+    "end": "2020-09-28T08:50:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 12,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-28T09:00:00.000Z",
+    "end": "2020-09-28T09:30:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 13,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-28T09:30:00.000Z",
+    "end": "2020-09-28T10:20:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 14,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-28T10:30:00.000Z",
+    "end": "2020-09-28T11:20:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 15,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-28T11:30:00.000Z",
+    "end": "2020-09-28T12:20:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 16,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-28T05:00:00.000Z",
+    "end": "2020-09-28T05:50:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 17,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-28T06:00:00.000Z",
+    "end": "2020-09-28T06:50:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 18,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-29T05:30:00.000Z",
+    "end": "2020-09-29T06:00:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 19,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-29T06:00:00.000Z",
+    "end": "2020-09-29T06:30:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 20,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-30T06:00:00.000Z",
+    "end": "2020-09-30T06:50:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 21,
+    "title": "Utókezelés",
+    "start": "2020-09-30T08:00:00.000Z",
+    "end": "2020-09-30T08:30:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 22,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-10-01T08:00:00.000Z",
+    "end": "2020-10-01T08:50:00.000Z",
+    "backgroundColor": "orange",
+    "display": "background"
+  },
+  {
+    "id": 23,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-30T12:00:00.000Z",
+    "end": "2020-09-30T12:50:00.000Z",
+    "backgroundColor": "brown",
+    "display": "background"
+  },
+  {
+    "id": 24,
+    "title": "Kisállatútlevél igénylése",
+    "start": "2020-09-29T06:30:00.000Z",
+    "end": "2020-09-29T07:00:00.000Z",
+    "backgroundColor": "brown",
+    "display": "background"
+  },
+  {
+    "id": 25,
+    "title": "Utókezelés",
+    "start": "2020-09-28T12:30:00.000Z",
+    "end": "2020-09-28T13:00:00.000Z",
+    "backgroundColor": "brown",
+    "display": "background"
+  },
+  {
+    "id": 26,
+    "title": "Kölyökállat első vizsgálata",
+    "start": "2020-09-29T12:30:00.000Z",
+    "end": "2020-09-29T13:20:00.000Z",
+    "backgroundColor": "brown"
+  }
+]

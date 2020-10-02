@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#draggableHolder {
+  padding: 0;
+}
+
+.draggable {
+  color: #fff;
+  background-color: #3788d8;
+
+  text-decoration: none;
+  font-size: .85em;
+
+  list-style: none;
+  cursor: pointer;
+}
+
+.fc .fc-bg-event .fc-event-title {
+  font-size: 0.75em !important;
+}
